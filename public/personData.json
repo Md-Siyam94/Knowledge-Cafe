@@ -1,0 +1,53 @@
+[
+    {
+      "id": 101,
+      "cover": "https://i.ibb.co.com/5WpNVsX/flat-top-view-white-working-600nw-1079308433.webp",
+      "author": "John Doe",
+      "author_img": "john_doe.jpg",
+      "date": "4 Oct 2024",
+      "post_date": "20 Oct 2024",
+      "reading_time": "5 min",
+      "hashtags": ["#Technology", "#Innovation", "#AI"]
+    },
+    {
+      "id": 102,
+      "cover": "cover_image_2.jpg",
+      "author": "Jane Smith",
+      "author_img": "jane_smith.jpg",
+      "date": "14 Sep 2024",
+      "post_date": "14 Sep 2024",
+      "reading_time": "7 min",
+      "hashtags": ["#WebDevelopment", "#JavaScript", "#CSS"]
+    },
+    {
+      "id": 103,
+      "cover": "cover_image_3.jpg",
+      "author": "Mike Johnson",
+      "author_img": "mike_johnson.jpg",
+      "date": "30 Aug 2024",
+      "post_date": "30 Aug 2024",
+      "reading_time": "6 min",
+      "hashtags": ["#CloudComputing", "#AWS", "#DevOps"]
+    },
+    {
+      "id": 104,
+      "cover": "cover_image_4.jpg",
+      "author": "Sarah Lee",
+      "author_img": "sarah_lee.jpg",
+      "date": "22 Jul 2024",
+      "post_date": "22 Jul 2024",
+      "reading_time": "8 min",
+      "hashtags": ["#DataScience", "#Python", "#MachineLearning"]
+    },
+    {
+      "id": 105,
+      "cover": "cover_image_5.jpg",
+      "author": "David Kim",
+      "author_img": "david_kim.jpg",
+      "date": "15 Jun 2024",
+      "post_date": "15 Jun 2024",
+      "reading_time": "10 min",
+      "hashtags": ["#Cybersecurity", "#Hacking", "#Encryption"]
+    }
+  ]
+  
